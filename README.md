@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/3-column-preview-card-tXllK_1AJ)
+- Live Site URL: [Here](https://tscorpz.github.io/3-column-preview-card/)
 
 ## My process
 
